@@ -1,3 +1,4 @@
+    <!-- html -->
     <h1>Redux Basic Project</h1>
 
     <p>This project is an example of using Redux with React. It is intended for reference purposes only and the code is deprecated, so it should not be used in production.</p>
