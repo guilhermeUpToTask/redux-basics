@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>Redux Basic Project</title>
-  </head>
-  <body>
+
     <h1>Redux Basic Project</h1>
 
     <p>This project is an example of using Redux with React. It is intended for reference purposes only and the code is deprecated, so it should not be used in production.</p>
@@ -49,5 +43,3 @@
     <h2>License</h2>
 
     <p>This project is licensed under the MIT License. See the <code>LICENSE</code> file for details.</p>
-  </body>
-</html>
